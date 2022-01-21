@@ -20,4 +20,4 @@ streamlit run lazyregressor_webapp.py
 
 **4.) Drag-n-Drop your .csv file, Select the task, Select the target column, and press Start training**
 
-**5.) 🎉🎉🎉 Voila! 🎉🎉🎉 **
+**5.) 🎉🎉🎉 Voila! 🎉🎉🎉**
