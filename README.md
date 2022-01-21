@@ -1,4 +1,4 @@
-# Simple Drag-n-Drop AutoML Webapp for Tabular Data
+# **Simple Drag-n-Drop AutoML Streamlit Webapp for Tabular Data**
 
 **1.) Download the code**
 
