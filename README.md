@@ -1,5 +1,9 @@
 # **Simple Drag-n-Drop AutoML Streamlit Webapp for Tabular Data**
 
+Try it here!
+https://share.streamlit.io/nameatirut/autoregressor_webapp/main/lazyregressor_webapp.py
+
+
 **1.) Download the code**
 
 ```
